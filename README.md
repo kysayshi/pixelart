@@ -1,5 +1,5 @@
 # pixelart
-P I X E L  A R T  is an experimental, interactive art program where you can paint using existing artwork as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
+P I X E L  A R T  is an experimental, interactive art program where you can paint using existing artworks as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
 
 See what art collages and original pieces you can create with the tip of your mouse!
 <br>
@@ -29,14 +29,15 @@ See what art collages and original pieces you can create with the tip of your mo
 </table>
 
 ## Sample Finished Pieces
+
+<img src="/example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
+
+
 ***Lixplode***
 <br>
 base artworks: *Kiss by Roy Lichtenstein* + *Tan Tan Bo Puking – a.k.a. Gero Tan by Takeshi Murakami*
-<br>
-<br>
-<img src="/example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
+##
 
 **Suspended**
 <br>

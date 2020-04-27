@@ -39,50 +39,49 @@ base artworks: *Kiss by Roy Lichtenstein* + *Tan Tan Bo Puking – a.k.a. Gero T
 
 ##
 
+<img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
+
+
 **Suspended**
 <br>
 base artworks: *The Garden of Earthly Delights by Hieronymous Bosch* + *Blue Morning Glory by Georgia O'Keeffe* + *Farmers Crossing A Suspension Bridge by Katsushika Hokusai*
-<br>
-<br>
-<img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
+##
+
+<img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
+
 
 ***Frida Deconstructed***
 <br>
 base artwork: *Self Portrait with Necklace of Thorns by Frida Kahlo*
-<br>
-<br>
-<img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
+##
+
+<img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
+
 
 ***Uzumaki***
 <br>
 base artworks: *The Siesta by Paul Gaugin* + *Das Erdbeben in Chili N#3 by Frank Stella* + *Blue Morning Glory by Georgia O'Keeffe* + *Untitled by Jackson Pollock*
-<br>
-<br>
-<img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
+##
+
+<img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
+
 
 ***Pearlescent***
 <br>
 base artworks: *Girl with a Pearl Earring by Johannes Vermeer* + *The Garden of Earthly Delights by Hieronymous Bosch* + *Das Erdbeben in Chili N#3 by Frank Stella*
-<br>
-<br>
-<img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
+##
+
+<img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
+
 
 ***The Dissolution of Pop Art***
 <br>
 base artworks: *Marylin Monroe by Andy Warhol* + *Gala and the Tigers by Salvador Dali*
-<br>
-<br>
-<img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
-<br>
-<br>
+
 
 
 

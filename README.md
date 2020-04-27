@@ -22,9 +22,9 @@ See what art collages and original pieces you can create with the tip of your mo
     </tr>
     <tr>
       <td><h6>product</h6></td>
-      <td><img src="/example_art/pixel_art_1_3058.jpg" alt="drawing" width="290"/></td>
-      <td><img src="/example_art/pixel_art_2_702.jpg" alt="drawing" width="225"/></td>
-      <td><img src="/example_art/pixel_art_3_14016.jpg" alt="drawing" width="250"/></td>
+      <td><img src="/example_art/pixel_art_1_3058.jpg" alt="drawing"/></td>
+      <td><img src="/example_art/pixel_art_2_702.jpg" alt="drawing"/></td>
+      <td><img src="/example_art/pixel_art_3_14016.jpg" alt="drawing"/></td>
     </tr>
   </tbody>
 </table>

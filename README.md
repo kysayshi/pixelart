@@ -1,17 +1,19 @@
 # pixelart
 P I X E L  A R T  is an experimental, interactive art program where you can paint using existing artworks as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
 
-See what art collages and original pieces you can create with the tip of your mouse!
+<h6>See what art collages and original pieces you can create with the tip of your mouse!</h6>
 <br>
-<br>
+
+
+
 ## Sample Process
 <br>
 <table>
   <thead>
     <th></th>
-    <th>Stage 1</th>
-    <th>Stage 2</th>
-    <th>Stage 3</th> 
+    <th><h3>stage 1</h3></th>
+    <th><h3>stage 2</h3</th>
+    <th><h3>stage 3</h3</th> 
   </thead>
   <tbody>
     <tr>
@@ -28,6 +30,10 @@ See what art collages and original pieces you can create with the tip of your mo
     </tr>
   </tbody>
 </table>
+<br>     
+      
+     
+
 
 ## Sample Finished Pieces
 <br>
@@ -35,7 +41,7 @@ See what art collages and original pieces you can create with the tip of your mo
 
 ***Lixplode***
 <br>
-base artworks: *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero Tan* by Takeshi Murakami
+base artworks:  *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero Tan* by Takeshi Murakami
 ##
 <br>
 <img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
@@ -43,35 +49,35 @@ base artworks: *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero T
 
 **Suspended**
 <br>
-base artworks: *The Garden of Earthly Delights* by Hieronymous Bosch + *Blue Morning Glory* by Georgia O'Keeffe + *Farmers Crossing A Suspension Bridge* by Katsushika Hokusai
+base artworks:  *The Garden of Earthly Delights* by Hieronymous Bosch + *Blue Morning Glory* by Georgia O'Keeffe + *Farmers Crossing A Suspension Bridge* by Katsushika Hokusai
 ##
 <br>
 <img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
 
 ***Frida Deconstructed***
 <br>
-base artwork: *Self Portrait with Necklace of Thorns* by Frida Kahlo
+base artwork:  *Self Portrait with Necklace of Thorns* by Frida Kahlo
 ##
 <br>
 <img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
 
 ***Uzumaki***
 <br>
-base artworks: *The Siesta* by Paul Gaugin + *Das Erdbeben in Chili N#3* by Frank Stella + *Blue Morning Glory* by Georgia O'Keeffe + *Untitled* by Jackson Pollock
+base artworks:  *The Siesta* by Paul Gaugin + *Das Erdbeben in Chili N#3* by Frank Stella + *Blue Morning Glory* by Georgia O'Keeffe + *Untitled* by Jackson Pollock
 ##
 <br>
 <img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
 
 ***Pearlescent***
 <br>
-base artworks: *Girl with a Pearl Earring* by Johannes Vermeer + *The Garden of Earthly Delights* by Hieronymous Bosch + *Das Erdbeben in Chili N#3* by Frank Stella
+base artworks:  *Girl with a Pearl Earring* by Johannes Vermeer + *The Garden of Earthly Delights* by Hieronymous Bosch + *Das Erdbeben in Chili N#3* by Frank Stella
 ##
 <br>
 <img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
 
 ***The Dissolution of Pop Art***
 <br>
-base artworks: *Marylin Monroe* by Andy Warhol + *Gala and the Tigers* by Salvador Dali
+base artworks:  *Marylin Monroe* by Andy Warhol + *Gala and the Tigers* by Salvador Dali
 
 
 

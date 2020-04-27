@@ -16,9 +16,9 @@ See what art collages and original pieces you can create with the tip of your mo
   <tbody>
     <tr>
       <td><h6>base artwork</h6></td>
-      <td><em>The Kiss by Gustav Klimt</em></td>
-      <td><em>Girl with a Pearl Earring by Johannes Vermeer</em></td>
-      <td><em>AA78 by Zdzisław Beksiński</em><br><em>Blue Morning Glory by Georgia O'Keeffe</em></td>
+      <td><em>The Kiss</em> by Gustav Klimt</td>
+      <td><em>Girl with a Pearl Earring</em> by Johannes Vermeer</td>
+      <td><em>AA78</em> by Zdzisław Beksiński<br><em>Blue Morning Glory by Georgia O'Keeffe</em></td>
     </tr>
     <tr>
       <td><h6>product</h6></td>
@@ -35,7 +35,7 @@ See what art collages and original pieces you can create with the tip of your mo
 
 ***Lixplode***
 <br>
-base artworks: *Kiss by Roy Lichtenstein* + *Tan Tan Bo Puking – a.k.a. Gero Tan by Takeshi Murakami*
+base artworks: *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero Tan* by Takeshi Murakami
 ##
 <br>
 <img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
@@ -43,35 +43,35 @@ base artworks: *Kiss by Roy Lichtenstein* + *Tan Tan Bo Puking – a.k.a. Gero T
 
 **Suspended**
 <br>
-base artworks: *The Garden of Earthly Delights by Hieronymous Bosch* + *Blue Morning Glory by Georgia O'Keeffe* + *Farmers Crossing A Suspension Bridge by Katsushika Hokusai*
+base artworks: *The Garden of Earthly Delights* by Hieronymous Bosch + *Blue Morning Glory* by Georgia O'Keeffe + *Farmers Crossing A Suspension Bridge* by Katsushika Hokusai
 ##
 <br>
 <img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
 
 ***Frida Deconstructed***
 <br>
-base artwork: *Self Portrait with Necklace of Thorns by Frida Kahlo*
+base artwork: *Self Portrait with Necklace of Thorns* by Frida Kahlo
 ##
 <br>
 <img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
 
 ***Uzumaki***
 <br>
-base artworks: *The Siesta by Paul Gaugin* + *Das Erdbeben in Chili N#3 by Frank Stella* + *Blue Morning Glory by Georgia O'Keeffe* + *Untitled by Jackson Pollock*
+base artworks: *The Siesta* by Paul Gaugin + *Das Erdbeben in Chili N#3* by Frank Stella + *Blue Morning Glory* by Georgia O'Keeffe + *Untitled* by Jackson Pollock
 ##
 <br>
 <img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
 
 ***Pearlescent***
 <br>
-base artworks: *Girl with a Pearl Earring by Johannes Vermeer* + *The Garden of Earthly Delights by Hieronymous Bosch* + *Das Erdbeben in Chili N#3 by Frank Stella*
+base artworks: *Girl with a Pearl Earring* by Johannes Vermeer + *The Garden of Earthly Delights* by Hieronymous Bosch + *Das Erdbeben in Chili N#3* by Frank Stella
 ##
 <br>
 <img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
 
 ***The Dissolution of Pop Art***
 <br>
-base artworks: *Marylin Monroe by Andy Warhol* + *Gala and the Tigers by Salvador Dali*
+base artworks: *Marylin Monroe* by Andy Warhol + *Gala and the Tigers* by Salvador Dali
 
 
 

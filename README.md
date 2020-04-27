@@ -9,7 +9,7 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
 &nbsp;
 &nbsp;
 
-## Sample Process
+## sample process
 <br>
 <table>
   <thead>
@@ -38,7 +38,7 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
      
 
 
-## Sample Finished Pieces
+## sample finished pieces
 <br>
 <img src="/example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
 

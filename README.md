@@ -1,5 +1,8 @@
-# pixelart
-<h6>Who needs paint when there are images at tip of your mouse!</h6>
+<div>
+<h1>pixelart</h1>
+<h6>who needs paint when there are images at tip of your mouse?</h6>
+</div>
+<hr>
 <br>
 P I X E L  A R T  is an experimental, interactive art program where you can paint using existing artworks as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
 

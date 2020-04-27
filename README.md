@@ -5,6 +5,7 @@ See what art collages and original pieces you can create with the tip of your mo
 <br>
 <br>
 ## Sample Process
+<br>
 <table>
   <thead>
     <th></th>
@@ -29,54 +30,44 @@ See what art collages and original pieces you can create with the tip of your mo
 </table>
 
 ## Sample Finished Pieces
-
+<br>
 <img src="/example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
-
 
 ***Lixplode***
 <br>
 base artworks: *Kiss by Roy Lichtenstein* + *Tan Tan Bo Puking – a.k.a. Gero Tan by Takeshi Murakami*
-
 ##
-
+<br>
 <img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
 
 
 **Suspended**
 <br>
 base artworks: *The Garden of Earthly Delights by Hieronymous Bosch* + *Blue Morning Glory by Georgia O'Keeffe* + *Farmers Crossing A Suspension Bridge by Katsushika Hokusai*
-
 ##
-
+<br>
 <img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
-
 
 ***Frida Deconstructed***
 <br>
 base artwork: *Self Portrait with Necklace of Thorns by Frida Kahlo*
-
 ##
-
+<br>
 <img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
-
 
 ***Uzumaki***
 <br>
 base artworks: *The Siesta by Paul Gaugin* + *Das Erdbeben in Chili N#3 by Frank Stella* + *Blue Morning Glory by Georgia O'Keeffe* + *Untitled by Jackson Pollock*
-
 ##
-
+<br>
 <img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
-
 
 ***Pearlescent***
 <br>
 base artworks: *Girl with a Pearl Earring by Johannes Vermeer* + *The Garden of Earthly Delights by Hieronymous Bosch* + *Das Erdbeben in Chili N#3 by Frank Stella*
-
 ##
-
+<br>
 <img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
-
 
 ***The Dissolution of Pop Art***
 <br>

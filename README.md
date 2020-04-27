@@ -9,6 +9,7 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
 &nbsp;
 &nbsp;
 &nbsp;
+<br>
 
 ## sample process
 <br>
@@ -51,7 +52,7 @@ base artworks:  *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero 
 <img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
 
 
-**suspended**
+***suspended***
 <br>
 base artworks:  *The Garden of Earthly Delights* by Hieronymous Bosch + *Blue Morning Glory* by Georgia O'Keeffe + *Farmers Crossing A Suspension Bridge* by Katsushika Hokusai
 ##

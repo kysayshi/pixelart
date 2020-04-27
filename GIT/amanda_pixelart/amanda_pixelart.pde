@@ -1,6 +1,5 @@
 /* 
 Amanda Herz
-CS2 Fall 2016
 
 P I X E L  A R T
 See what art pieces you can create with your mouse!

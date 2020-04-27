@@ -1,5 +1,5 @@
 # pixelart
-P I X E L  A R T is an experimental, interactive art program where you can paint using existing artwork as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
+P I X E L  A R T  is an experimental, interactive art program where you can paint using existing artwork as your palette. Press the ENTER key to switch between nineteen base artworks, spanning a wide variety of styles. Each artwork will initially be represented by four pixels corresponding in color to the value of the top leftmost pixel in each quadrant; as you move your "brush" (mouse) over each "pixel" (quadrant) it will break into a new set of pixels, further illuminating the base artwork that is currently selected.
 
 See what art collages and original pieces you can create with the tip of your mouse!
 <br>
@@ -7,35 +7,27 @@ See what art collages and original pieces you can create with the tip of your mo
 ## Sample Process
 <table>
   <thead>
-  <th>**Stage 1**</th>
-  <th>**Stage 2**</th>
-  <th>**Stage 3**</th> 
+    <th></th>
+    <th>Stage 1</th>
+    <th>Stage 2</th>
+    <th>Stage 3</th> 
   </thead>
-base artwork = *The Kiss by Gustav Klimt* 
-  <td><img src="/example_art/pixel_art_1_3058.jpg" alt="drawing" width="300"/></td>
+  <tbody>
+    <tr>
+      <td><h6>base artwork</h6></td>
+      <td><em>The Kiss by Gustav Klimt</em></td>
+      <td><em>Girl with a Pearl Earring by Johannes Vermeer</em></td>
+      <td><em>AA78 by Zdzisław Beksiński</em><br><em>Blue Morning Glory by Georgia O'Keeffe</em></td>
+    </tr>
+    <tr>
+      <td><h6>product</h6></td>
+      <td><img src="/example_art/pixel_art_1_3058.jpg" alt="drawing" width="290"/></td>
+      <td><img src="/example_art/pixel_art_2_702.jpg" alt="drawing" width="225"/></td>
+      <td><img src="/example_art/pixel_art_3_14016.jpg" alt="drawing" width="250"/></td>
+    </tr>
+  </tbody>
 </table>
-**Stage 1:**
-<br>
-base artwork = *The Kiss by Gustav Klimt*
-<br>
-<br>
-<img src="/example_art/pixel_art_1_3058.jpg" alt="drawing" width="300"/>
 
-**Stage 2:**
-<br>
-base artwork = *Girl with a Pearl Earring by Johannes Vermeer*
-<br>
-<br>
-<img src="/example_art/pixel_art_2_702.jpg" alt="drawing" width="300"/>
-
-**Stage 3:**
-<br>
-base artwork = *AA78 by Zdzisław Beksiński*
-<br>
-<br>
-<img src="/example_art/pixel_art_3_14016.jpg" alt="drawing" width="300"/>
-<br>
-<br>
 ## Sample Finished Pieces
 ***Lixplode***
 <br>

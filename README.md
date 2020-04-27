@@ -1,5 +1,5 @@
 <div>
-<h3>pixelart</h3>
+<h3>P I X E L  A R T </h3>
 <h6>who needs paint when there are images at tip of your mouse?</h6>
 </div>
 <hr>

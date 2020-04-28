@@ -30,9 +30,9 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
     </tr>
     <tr>
       <td><h6>product</h6></td>
-      <td><img src="/example_art/pixel_art_1_3058.jpg" alt="drawing"/></td>
-      <td><img src="/example_art/pixel_art_2_702.jpg" alt="drawing"/></td>
-      <td><img src="/example_art/pixel_art_3_14016.jpg" alt="drawing"/></td>
+      <td><img src="./example_art/pixel_art_1_3058.jpg" alt="drawing"/></td>
+      <td><img src="./example_art/pixel_art_2_702.jpg" alt="drawing"/></td>
+      <td><img src="./example_art/pixel_art_3_14016.jpg" alt="drawing"/></td>
     </tr>
   </tbody>
 </table>
@@ -43,14 +43,14 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
 
 ## sample finished pieces
 <br>
-<img src="/example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_4_10849.jpg" alt="drawing" width="500"/>
 
 ***lixplode***
 <br>
 base artworks:  *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero Tan* by Takeshi Murakami
 ##
 <br>
-<img src="/example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_18162.jpg" alt="drawing" width="500"/>
 
 
 ***suspended***
@@ -58,28 +58,28 @@ base artworks:  *Kiss* by Roy Lichtenstein + *Tan Tan Bo Puking – a.k.a. Gero 
 base artworks:  *The Garden of Earthly Delights* by Hieronymous Bosch + *Blue Morning Glory* by Georgia O'Keeffe + *Farmers Crossing A Suspension Bridge* by Katsushika Hokusai
 ##
 <br>
-<img src="/example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_5_5105.jpg" alt="drawing" width="500"/>
 
 ***frida deconstructed***
 <br>
 base artwork:  *Self Portrait with Necklace of Thorns* by Frida Kahlo
 ##
 <br>
-<img src="/example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_8273.jpg" alt="drawing" width="500"/>
 
 ***uzumaki***
 <br>
 base artworks:  *The Siesta* by Paul Gaugin + *Das Erdbeben in Chili N#3* by Frank Stella + *Blue Morning Glory* by Georgia O'Keeffe + *Untitled* by Jackson Pollock
 ##
 <br>
-<img src="/example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_10558.jpg" alt="drawing" width="500"/>
 
 ***pearlescent***
 <br>
 base artworks:  *Girl with a Pearl Earring* by Johannes Vermeer + *The Garden of Earthly Delights* by Hieronymous Bosch + *Das Erdbeben in Chili N#3* by Frank Stella
 ##
 <br>
-<img src="/example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
+<img src="./example_art/pixel_art_8_7705.jpg" alt="drawing" width="500"/>
 
 ***the dissolution of pop art***
 <br>

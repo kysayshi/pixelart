@@ -83,7 +83,7 @@ base artworks:  *Girl with a Pearl Earring* by Johannes Vermeer + *The Garden of
 
 ***the dissolution of pop art***
 <br>
-base artwors:  *Marylin Monroe* by Andy Warhol + *Gala and the Tigers* by Salvador Dali
+base artworks:  *Marylin Monroe* by Andy Warhol + *Gala and the Tigers* by Salvador Dali
 
 
 

@@ -26,7 +26,7 @@ P I X E L&nbsp; A R T&nbsp; is an experimental, interactive art program where yo
       <td><h6>base artwork</h6></td>
       <td><em>The Kiss</em> by Gustav Klimt</td>
       <td><em>Girl with a Pearl Earring</em> by Johannes Vermeer</td>
-      <td><em>AA78</em> by Zdzisław Beksiński<br><em>Blue Morning Glory by Georgia O'Keeffe</em></td>
+      <td><em>AA78</em> by Zdzisław Beksiński<br><em>Blue Morning Glory</em> by Georgia O'Keeffe</td>
     </tr>
     <tr>
       <td><h6>product</h6></td>
